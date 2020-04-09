@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #0A3D62;
+}
+
+.navigation {
+  width: 100%;
+  height: 200px;
+  text-align: center;
+}
+
+.navigation .alliessymbol {
+  width: 25%;
+  height: 200px;
+  float: left;
+  background-color: #0A3D62;
+}
+
+.navigation .axissymbol {
+  width: 25%;
+  height: 200px;
+  float: left;
+  background-color: #2C3335;
+}
+
+.navigation .cominternsymbol {
+  width: 25%;
+  height: 200px;
+  float: left;
+  background-color: #B83227;
+}
+
+.navigation .geacpsymbol {
+  width: 25%;
+  height: 200px;
+  float: left;
+  background-color: #10A881;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #0A3D62;
+}
+
+#headline {
+  font-size: 60;
+  font-family: consolas, arial;
+  color: white;
+  font-weight: bold;
+}
+
+.container {
+  width: 60%;
+  height: 460px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container .major {
+  width: 60%;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
+
+.container .major .flag {
+  width: 35%;
+  height: 140px;
+  margin-left: 5px;
+  margin-top: 5px;
+  float: left;
+  text-align: center;
+}
+
+.container .major .flag .cflag {
+  border-radius: 25px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.8) 0 0 20px;
+          box-shadow: rgba(0, 0, 0, 0.8) 0 0 20px;
+  border-collapse: collapse;
+}
+
+.container .major .name {
+  width: 60%;
+  height: 100px;
+  margin-right: 14px;
+  margin-top: 24px;
+  float: right;
+  text-align: center;
+}
+
+.container .major .name #name {
+  font-family: consolas, arial;
+  color: white;
+}
+
+.tog_container {
+  width: 100%;
+  height: 465px;
+}
+
+.tog_container .container_minor {
+  width: 33.3%;
+  height: 465px;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+
+.tog_container .container_minor .minor {
+  width: 100%;
+  height: 150px;
+  margin-top: 5px;
+  display: block;
+}
+
+.tog_container .container_minor .minor .flag {
+  width: 30%;
+  height: 150px;
+  margin-left: 15px;
+  float: left;
+}
+
+.tog_container .container_minor .minor .flag .cflag {
+  border-radius: 10px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.8) 0 0 20px;
+          box-shadow: rgba(0, 0, 0, 0.8) 0 0 20px;
+  border-collapse: collapse;
+}
+
+.tog_container .container_minor .minor .name {
+  width: 60%;
+  height: 100px;
+  margin-right: 20px;
+  margin-top: 25px;
+  float: left;
+  text-align: left;
+}
+
+.tog_container .container_minor .minor .name #name {
+  font-family: consolas, arial;
+  color: white;
+}
+/*# sourceMappingURL=allies.css.map */
